@@ -1,0 +1,33 @@
+{
+    "1712365646225385:429829": {
+        "IFileManager": {
+            "path": "Files/File_1712365646225385_429829.ttf"
+        }
+    },
+    "1712365646227323:429830": {
+        "IResourceController": {
+            "name": "Cutive Mono",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1712365646227334:429831",
+            "fileId": "1712365646225385:429829",
+            "publicId": "1712365646228609:429836",
+            "expected_hash": "fa1a2b3dccd133349ebedc12bafa9a8e"
+        },
+        "IResourceManager": {
+            "uid": "1712365646227334:429831",
+            "name": "Files/File_1712365646225385_429829.ttf",
+            "flags": 1
+        }
+    },
+    "1712365646228609:429836": {
+        "IResourceController": {
+            "public": {
+                "path": "Cutive Mono.ttf",
+                "hash": "fa1a2b3dccd133349ebedc12bafa9a8e"
+            }
+        }
+    }
+}

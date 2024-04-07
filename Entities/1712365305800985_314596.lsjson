@@ -1,0 +1,79 @@
+{
+    "1712365305799635:314595": {
+        "IFileManager": {
+            "path": "Files/File_1712365305799635_314595.pvr"
+        }
+    },
+    "1712365305800985:314596": {
+        "IResourceController": {
+            "name": "kisspng-michigan-wolverines-men-s-basketball-michigan-wolv-best-5ac03681261c71",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1712365305801832:314597",
+            "fileId": "1712365305799635:314595",
+            "originalId": "1712365305802158:314602",
+            "publicId": "1712365305881091:314604",
+            "expected_hash": "2d85857972471f410290d5e0c110c6f2",
+            "additional": {
+                "originHash": "fe7916efe10de23f419f33be60487bf9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1712365305801832:314597",
+            "name": "Files/File_1712365305799635_314595.jpg",
+            "flags": 1
+        }
+    },
+    "1712365305801832:314597": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "fe7916efe10de23f419f33be60487bf9"
+                    },
+                    "v": "1712365310889098:316084"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "216000",
+                "compressedSize": "8266",
+                "extension": "jpg",
+                "originalRAM": "1728000",
+                "originalSize": "19104",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1712365305806022:314603"
+        }
+    },
+    "1712365305802158:314602": {
+        "IFileManager": {
+            "path": "Files/File_1712365305802158_314602.jpg"
+        }
+    },
+    "1712365305806022:314603": {
+        "IFileManager": {
+            "path": "Files/File_1712365305806022_314603.jpg"
+        }
+    },
+    "1712365305881091:314604": {
+        "IResourceController": {
+            "public": {
+                "path": "kisspng-michigan-wolverines-men-s-basketball-michigan-wolv-best-5ac03681261c71.jpg",
+                "hash": "fe7916efe10de23f419f33be60487bf9"
+            }
+        }
+    },
+    "1712365310889098:316084": {
+        "IFileManager": {
+            "path": "Files/File_1712365310889098_316084.pvr"
+        }
+    }
+}

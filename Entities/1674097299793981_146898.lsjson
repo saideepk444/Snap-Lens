@@ -1,0 +1,79 @@
+{
+    "1520042272210559:616895": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6d33435472a81a5ccc76f07217701b5e"
+                    },
+                    "v": "1674097299794097:146995"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "184320",
+                "compressedSize": "15831",
+                "extension": "png",
+                "originalRAM": "1474560",
+                "originalSize": "25144",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674097299794048:146960"
+        }
+    },
+    "1674097299793981:146898": {
+        "IResourceController": {
+            "name": "wow",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1520042272210559:616895",
+            "fileId": "1674097299794011:146932",
+            "originalId": "1674097299794076:146980",
+            "publicId": "1674097299794160:147055",
+            "expected_hash": "7a79fa6b48042beeb0c53e5babd16360",
+            "additional": {
+                "originHash": "6d33435472a81a5ccc76f07217701b5e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1520042272210559:616895",
+            "name": "/Resources/Resource202.png",
+            "flags": 1
+        }
+    },
+    "1674097299794011:146932": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794011_146932.pvr"
+        }
+    },
+    "1674097299794048:146960": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794048_146960.png"
+        }
+    },
+    "1674097299794076:146980": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794076_146980.png"
+        }
+    },
+    "1674097299794097:146995": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794097_146995.pvr"
+        }
+    },
+    "1674097299794160:147055": {
+        "IResourceController": {
+            "public": {
+                "path": "Logos/wow.png",
+                "hash": "6d33435472a81a5ccc76f07217701b5e"
+            }
+        }
+    }
+}

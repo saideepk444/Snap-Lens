@@ -1,0 +1,25 @@
+{
+    "1674097299794153:147035": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap"
+            }
+        }
+    },
+    "1674097299794206:147089": {
+        "IResourceController": {
+            "name": "Baseball Cap",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674097299794153:147035",
+            "resources": [
+                "1674097299794194:147086",
+                "1674097299794201:147087",
+                "1674097299794205:147088",
+                "1712365227492458:243669"
+            ]
+        }
+    }
+}

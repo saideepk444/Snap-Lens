@@ -1,0 +1,79 @@
+{
+    "1519650512400208:28594": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "ea8acf843cd91d81e504bd5cbfd056c8"
+                    },
+                    "v": "1674097299794127:147017"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "5578424",
+                "compressedSize": "301140",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "301140",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674097299794117:147010"
+        }
+    },
+    "1674097299793977:146885": {
+        "IResourceController": {
+            "name": "cap_norm",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1519650512400208:28594",
+            "fileId": "1674097299793994:146919",
+            "originalId": "1674097299794066:146973",
+            "publicId": "1674097299794156:147045",
+            "expected_hash": "ea8acf843cd91d81e504bd5cbfd056c8",
+            "additional": {
+                "originHash": "ea8acf843cd91d81e504bd5cbfd056c8"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1519650512400208:28594",
+            "name": "/Resources/Resource85.jpg",
+            "flags": 1
+        }
+    },
+    "1674097299793994:146919": {
+        "IFileManager": {
+            "path": "Files/File_1674097299793994_146919.jpg"
+        }
+    },
+    "1674097299794066:146973": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794066_146973.jpg"
+        }
+    },
+    "1674097299794117:147010": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794117_147010.jpg"
+        }
+    },
+    "1674097299794127:147017": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794127_147017.jpg"
+        }
+    },
+    "1674097299794156:147045": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap/Textures/cap_norm.jpg",
+                "hash": "ea8acf843cd91d81e504bd5cbfd056c8"
+            }
+        }
+    }
+}

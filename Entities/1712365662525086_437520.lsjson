@@ -1,0 +1,33 @@
+{
+    "1712365662523902:437519": {
+        "IFileManager": {
+            "path": "Files/File_1712365662523902_437519.ttf"
+        }
+    },
+    "1712365662525086:437520": {
+        "IResourceController": {
+            "name": "Libre Baskerville",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1712365662525094:437521",
+            "fileId": "1712365662523902:437519",
+            "publicId": "1712365662526262:437526",
+            "expected_hash": "27b9efe7ae34478c82311efb90011607"
+        },
+        "IResourceManager": {
+            "uid": "1712365662525094:437521",
+            "name": "Files/File_1712365662523902_437519.ttf",
+            "flags": 1
+        }
+    },
+    "1712365662526262:437526": {
+        "IResourceController": {
+            "public": {
+                "path": "Libre Baskerville.ttf",
+                "hash": "27b9efe7ae34478c82311efb90011607"
+            }
+        }
+    }
+}

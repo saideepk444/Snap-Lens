@@ -1,0 +1,25 @@
+{
+    "1674097299794153:147036": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap/Meshes"
+            }
+        }
+    },
+    "1674097299794194:147086": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674097299794153:147036",
+            "resources": [
+                "1674097299793980:146894",
+                "1674097299793980:146892",
+                "1674097299793979:146891",
+                "1674097299793980:146893"
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1520032307868280:89760": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ecde3d7f021b3f8e9ff5a06918d61df3"
+                    },
+                    "v": "1674097299794105:147001"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "39361",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "65685",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674097299794046:146958"
+        }
+    },
+    "1674097299793981:146896": {
+        "IResourceController": {
+            "name": "sheep",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1520032307868280:89760",
+            "fileId": "1674097299794008:146930",
+            "originalId": "1674097299794072:146978",
+            "publicId": "1674097299794159:147053",
+            "expected_hash": "4f944cca39cb9d4b05e1ef39849cd7f7",
+            "additional": {
+                "originHash": "ecde3d7f021b3f8e9ff5a06918d61df3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1520032307868280:89760",
+            "name": "/Resources/Resource196.png",
+            "flags": 1
+        }
+    },
+    "1674097299794008:146930": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794008_146930.pvr"
+        }
+    },
+    "1674097299794046:146958": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794046_146958.png"
+        }
+    },
+    "1674097299794072:146978": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794072_146978.png"
+        }
+    },
+    "1674097299794105:147001": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794105_147001.pvr"
+        }
+    },
+    "1674097299794159:147053": {
+        "IResourceController": {
+            "public": {
+                "path": "Logos/sheep.png",
+                "hash": "ecde3d7f021b3f8e9ff5a06918d61df3"
+            }
+        }
+    }
+}

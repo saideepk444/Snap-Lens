@@ -1,0 +1,79 @@
+{
+    "1520377547422874:14143": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ac807a5bd61271db86558aac35b3d5ce"
+                    },
+                    "v": "1674097299794101:146998"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "389120",
+                "compressedSize": "7703",
+                "extension": "png",
+                "originalRAM": "3108864",
+                "originalSize": "5305",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674097299794058:146967"
+        }
+    },
+    "1674097299793983:146904": {
+        "IResourceController": {
+            "name": "eye_lines_secondary",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1520377547422874:14143",
+            "fileId": "1674097299794019:146938",
+            "originalId": "1674097299794086:146987",
+            "publicId": "1674097299794162:147063",
+            "expected_hash": "3a5afdfeb6d2d82b6d60fec006056360",
+            "additional": {
+                "originHash": "ac807a5bd61271db86558aac35b3d5ce"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1520377547422874:14143",
+            "name": "/Resources/Resource237.png",
+            "flags": 1
+        }
+    },
+    "1674097299794019:146938": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794019_146938.pvr"
+        }
+    },
+    "1674097299794058:146967": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794058_146967.png"
+        }
+    },
+    "1674097299794086:146987": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794086_146987.png"
+        }
+    },
+    "1674097299794101:146998": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794101_146998.pvr"
+        }
+    },
+    "1674097299794162:147063": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Paint Patterns/eye_lines_secondary.png",
+                "hash": "ac807a5bd61271db86558aac35b3d5ce"
+            }
+        }
+    }
+}

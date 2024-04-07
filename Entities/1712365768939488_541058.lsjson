@@ -1,0 +1,79 @@
+{
+    "1712365768938173:541057": {
+        "IFileManager": {
+            "path": "Files/File_1712365768938173_541057.pvr"
+        }
+    },
+    "1712365768939488:541058": {
+        "IResourceController": {
+            "name": "michigan-stadium-4",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1712365768940691:541061",
+            "fileId": "1712365768938173:541057",
+            "originalId": "1712365768941382:541066",
+            "publicId": "1712365769064338:541088",
+            "expected_hash": "53ef5297fa8e74978b7b06a3c7a72336",
+            "additional": {
+                "originHash": "aba025d91ed9127fa7876ec39fc94839"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1712365768940691:541061",
+            "name": "Files/File_1712365768938173_541057.jpg",
+            "flags": 1
+        }
+    },
+    "1712365768940691:541061": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "aba025d91ed9127fa7876ec39fc94839"
+                    },
+                    "v": "1712365805639942:557730"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "404800",
+                "compressedSize": "363883",
+                "extension": "jpg",
+                "originalRAM": "3225200",
+                "originalSize": "328909",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1712365768965376:541076"
+        }
+    },
+    "1712365768941382:541066": {
+        "IFileManager": {
+            "path": "Files/File_1712365768941382_541066.jpg"
+        }
+    },
+    "1712365768965376:541076": {
+        "IFileManager": {
+            "path": "Files/File_1712365768965376_541076.jpg"
+        }
+    },
+    "1712365769064338:541088": {
+        "IResourceController": {
+            "public": {
+                "path": "michigan-stadium-4.jpg",
+                "hash": "aba025d91ed9127fa7876ec39fc94839"
+            }
+        }
+    },
+    "1712365805639942:557730": {
+        "IFileManager": {
+            "path": "Files/File_1712365805639942_557730.pvr"
+        }
+    }
+}

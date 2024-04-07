@@ -1,0 +1,42 @@
+{
+    "1674097299793984:146910": {
+        "IResourceController": {
+            "name": "Occluder",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623373225135569:6355465",
+            "fileId": "1674097299794108:147003",
+            "originalId": "1674097299794109:147004",
+            "publicId": "1674097299794164:147067",
+            "expected_hash": "73e1f0a7494f7f1525202bc23ffd5e10",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623373225135569:6355465",
+            "name": "Files/File_1674097299794108_147003",
+            "flags": 1
+        }
+    },
+    "1674097299794108:147003": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794108_147003"
+        }
+    },
+    "1674097299794109:147004": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794109_147004.lsmat"
+        }
+    },
+    "1674097299794164:147067": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap/Materials/Occluder.lsmat",
+                "hash": "88b151fa987205b9629b931c1423220d"
+            }
+        }
+    }
+}

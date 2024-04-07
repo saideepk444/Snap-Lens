@@ -1,0 +1,77 @@
+{
+    "1521063287653669:62477": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "566ed18a171c63eed55671e37aba5a69"
+                    },
+                    "v": "1674097299794107:147002"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "546816",
+                "compressedSize": "254619",
+                "extension": "t3d",
+                "originalRAM": "4374528",
+                "originalSize": "284560",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674097299794050:146961"
+        }
+    },
+    "1674097299793984:146907": {
+        "IResourceController": {
+            "name": "cat_animated",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1521063287653669:62477",
+            "fileId": "1674097299794023:146941",
+            "originalId": "1674097299794077:146981",
+            "publicId": "1674097299794160:147056",
+            "expected_hash": "22618f7250471782dbb881757d786d70"
+        },
+        "IResourceManager": {
+            "uid": "1521063287653669:62477",
+            "name": "/Resources/Resource248",
+            "flags": 1
+        }
+    },
+    "1674097299794023:146941": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794023_146941"
+        }
+    },
+    "1674097299794050:146961": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794050_146961"
+        }
+    },
+    "1674097299794077:146981": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794077_146981"
+        }
+    },
+    "1674097299794107:147002": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794107_147002"
+        }
+    },
+    "1674097299794160:147056": {
+        "IResourceController": {
+            "public": {
+                "path": "Logos/cat_animated",
+                "hash": "566ed18a171c63eed55671e37aba5a69",
+                "complexResourceHash": "b06b253906f9dbf0fa2993b571b5977b"
+            }
+        }
+    }
+}

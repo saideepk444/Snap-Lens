@@ -1,0 +1,42 @@
+{
+    "1674097299793984:146911": {
+        "IResourceController": {
+            "name": "cap_shadow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623373289075292:6364835",
+            "fileId": "1674097299794111:147005",
+            "originalId": "1674097299794112:147006",
+            "publicId": "1674097299794164:147068",
+            "expected_hash": "f2a4ed73a762d009fa8f1b006539e997",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623373289075292:6364835",
+            "name": "Files/File_1674097299794111_147005",
+            "flags": 1
+        }
+    },
+    "1674097299794111:147005": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794111_147005"
+        }
+    },
+    "1674097299794112:147006": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794112_147006.lsmat"
+        }
+    },
+    "1674097299794164:147068": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap/Materials/cap_shadow.lsmat",
+                "hash": "292c43354273a530ee05fd6f26fcee63"
+            }
+        }
+    }
+}

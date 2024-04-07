@@ -1,0 +1,26 @@
+{
+    "1674097299794157:147049": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap/Materials"
+            }
+        }
+    },
+    "1674097299794205:147088": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674097299794157:147049",
+            "resources": [
+                "1674097299793984:146910",
+                "1674097299793984:146911",
+                "1674097299793985:146913",
+                "1674097299793985:146914",
+                "1674097299793985:146915"
+            ]
+        }
+    }
+}

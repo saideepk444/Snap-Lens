@@ -1,0 +1,38 @@
+{
+    "1519673772676472:19426": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1674097299793979:146889": {
+        "IResourceController": {
+            "name": "BaseballCapController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1519673772676472:19426",
+            "fileId": "1674097299793999:146923",
+            "publicId": "1674097299794151:147032",
+            "expected_hash": "272888acc9d613deb42c84cda5b2cc92"
+        },
+        "IResourceManager": {
+            "uid": "1519673772676472:19426",
+            "name": "/Resources/Resource112.js",
+            "flags": 1
+        }
+    },
+    "1674097299793999:146923": {
+        "IFileManager": {
+            "path": "Files/File_1674097299793999_146923.js"
+        }
+    },
+    "1674097299794151:147032": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/BaseballCapController.js",
+                "hash": "272888acc9d613deb42c84cda5b2cc92"
+            }
+        }
+    }
+}

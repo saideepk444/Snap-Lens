@@ -1,0 +1,88 @@
+{
+    "1519754130786952:3274": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "13896",
+                "compressedSize": "5018",
+                "extension": "mesh",
+                "originalRAM": "13896",
+                "originalSize": "5018",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "true",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674097299794137:147024"
+        }
+    },
+    "1674097299793980:146893": {
+        "IResourceController": {
+            "name": "cap_shadow",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1519754130786952:3274",
+            "fileId": "1674097299794006:146928",
+            "publicId": "1674097299794154:147040",
+            "expected_hash": "4d196be6c739db5b4955f7d7bc598a42"
+        },
+        "IResourceManager": {
+            "uid": "1519754130786952:3274",
+            "name": "/Resources/Resource169.mesh",
+            "flags": 5
+        }
+    },
+    "1674097299794006:146928": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794006_146928.mesh"
+        }
+    },
+    "1674097299794137:147024": {
+        "IFileManager": {
+            "path": "Files/File_1674097299794137_147024.mesh"
+        }
+    },
+    "1674097299794154:147040": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap/Meshes/cap_shadow.mesh",
+                "hash": "4d196be6c739db5b4955f7d7bc598a42"
+            }
+        }
+    }
+}
